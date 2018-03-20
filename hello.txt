@@ -1,1 +1,3 @@
-a line of textanother line of texta third line Hello World 
+a line of textanother line of texta third line Hello World again
+ git commit --amend --reset-author
+working on commit

@@ -38,4 +38,4 @@ print d
    # print (row['Email'])
    # d = [row['Email']]
  # s = pd.Series(row['Email'],index=[i])
-
+#print d
