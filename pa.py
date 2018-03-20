@@ -39,3 +39,4 @@ print d
    # d = [row['Email']]
  # s = pd.Series(row['Email'],index=[i])
 #print d
+#bye
